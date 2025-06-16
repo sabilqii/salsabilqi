@@ -1,5 +1,6 @@
 streamlit
 pandas
-numpy
-sckit-learn
-gtTS
+Pillow
+gTTS
+scikit-learn
+matplotlib
